@@ -1,0 +1,23 @@
+{
+  "name": "google-sms",
+  "version": "1.0.0",
+  "description": "Google search client for SMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-sharpl/google-sms.git"
+  },
+  "keywords": [
+    "Google",
+    "SMS"
+  ],
+  "author": "Andrew Sharp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-sharpl/google-sms/issues"
+  },
+  "homepage": "https://github.com/andrew-sharpl/google-sms#readme"
+}
