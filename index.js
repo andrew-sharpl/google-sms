@@ -14,4 +14,5 @@ client.messages
     from: process.env.sendFrom,
     to: process.env.sendTo
   })
-  .then(message => console.log(message.sid));
+  .then(message => {console.log(message);});
+
