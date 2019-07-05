@@ -1,0 +1,50 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "d5c140a3b31a606034b4a39bb1da4508f5b769fda46858600c9fd6acd479f825"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.7"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "beautifulsoup4": {
+            "hashes": [
+                "sha256:034740f6cb549b4e932ae1ab975581e6103ac8f942200a0e9759065984391858",
+                "sha256:945065979fb8529dd2f37dbb58f00b661bdbcbebf954f93b32fdf5263ef35348",
+                "sha256:ba6d5c59906a85ac23dadfe5c88deaf3e179ef565f4898671253e50a78680718"
+            ],
+            "version": "==4.7.1"
+        },
+        "google": {
+            "hashes": [
+                "sha256:ac0ccd778081f3e373ac5d23253ed11e79a80b11dc1f0ab0ca23833ba7c85de9"
+            ],
+            "index": "pypi",
+            "version": "==2.0.2"
+        },
+        "google-parser": {
+            "hashes": [
+                "sha256:5d78466bb5d6ec0756ed9afacea9e159122d65f261c2f7caa3620bb4c055b18d"
+            ],
+            "index": "pypi",
+            "version": "==0.0.89"
+        },
+        "soupsieve": {
+            "hashes": [
+                "sha256:72b5f1aea9101cf720a36bb2327ede866fd6f1a07b1e87c92a1cc18113cbc946",
+                "sha256:e4e9c053d59795e440163733a7fec6c5972210e1790c507e4c7b051d6c5259de"
+            ],
+            "version": "==1.9.2"
+        }
+    },
+    "develop": {}
+}
